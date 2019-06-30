@@ -24,24 +24,24 @@ class DataGenerator:
         self.dataset_size = 0
         self.color = ['#FD9206', '#FA1707', '#000000', '#4321EC']
 
-    def rgb2gray(self, rgb):
-        return np.dot(rgb[..., :3], [0.299, 0.587, 0.114])
+    # def rgb2gray(self, rgb):
+    #     return np.dot(rgb[..., :3], [0.299, 0.587, 0.114])
 
-    def get_list_characters(self):
-        if len(self.characters) != 0:
-            return self.characters
-        else:
-            characters = []
-            with open(CHARACTERS_SET) as cf:
-                for r in cf:
-                    if ',,' in r:
-                        c = ','
-                    else:
-                        _, c = r.split(',')
-                    characters.append(c.replace('\n', ''))
+    # def get_list_characters(self):
+    #     if len(self.characters) != 0:
+    #         return self.characters
+    #     else:
+    #         characters = []
+    #         with open(CHARACTERS_SET) as cf:
+    #             for r in cf:
+    #                 if ',,' in r:
+    #                     c = ','
+    #                 else:
+    #                     _, c = r.split(',')
+    #                 characters.append(c.replace('\n', ''))
 
-            self.characters = characters
-            return characters
+    #         self.characters = characters
+    #         return characters
     def get_list_words(self):
         with open(WORDS_SET) as ws:
             words = ws.readlines()
@@ -51,9 +51,9 @@ class DataGenerator:
 
     def create_text_image(self, text, font_ttf, idx_category, font_size):
         try:
-            # Tạo text từ vi_VI.dic + random 6 chữ số 
-            number_rand = random.randint(100000,999999)
-            text = text + ' ' + str(number_rand)
+            
+
+
             # Lấy width và height của text mới 
             image_fake = Image.new("RGB", (IMG_WIDTH, IMG_HEIGHT), (255, 255, 255))
             draw = ImageDraw.Draw(image_fake)
@@ -64,7 +64,6 @@ class DataGenerator:
             image = Image.new("RGB", (w+4, h+4), (255, 255, 255))
             draw = ImageDraw.Draw(image)
 
-            
             
             color_rand_ind = random.randint(0,3)
             color_rand=self.color[color_rand_ind]
@@ -97,7 +96,7 @@ class DataGenerator:
                     for font_size in range(FONT_SIZE_MIN, FONT_SIZE_MAX + 1):
                         # Lấy ngẫu nhiên 10% font 
                         x = random.randint(1,100)
-                        if x <= 10:
+                        if x <= 2:
                             image = self.create_text_image(text, font.replace('\n', ''), idx_category, font_size)
                         # if image != None:
                         #     self.dataset_size = self.dataset_size + 1
@@ -108,12 +107,22 @@ class DataGenerator:
         return images
 
     def generate_dataset(self):
-        characters = self.get_list_words()
+        words = self.get_list_words()
         if SAVE_TEXT_IMAGE_TO_DISK and not os.path.exists(self.data_folder):
                 os.makedirs(self.data_folder)
-        for idx, ch in enumerate(characters):
-            c_images = self.generate_data_set(ch, idx)
-            # if self.i > 10:
+        ch_size = len(words)
+        for idx, text in enumerate(words):
+            # Tạo text từ vi_VI.dic + random 6 chữ số 
+            number_rand = random.randint(100000,999999)
+            rd = random.randint(1,10)
+            if rd <= 6:
+                text = text + ' ' + str(number_rand)
+            else:
+                text = text.upper() + '/' + str(number_rand)
+            c_images = self.generate_data_set(text, idx)
+            percent = (idx / ch_size) * 100
+            print(f'Done {percent:.3f}%')
+            # if self.i > 500:
             #     return
             # print('.', end='')
             # for ic in c_images:
