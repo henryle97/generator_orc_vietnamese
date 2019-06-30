@@ -22,6 +22,7 @@ class DataGenerator:
         self.data_set_csv = DATASET_FILE
         self.characters = []
         self.dataset_size = 0
+        self.color = ['#FD9206', '#FA1707', '#000000', '#4321EC']
 
     def rgb2gray(self, rgb):
         return np.dot(rgb[..., :3], [0.299, 0.587, 0.114])
@@ -41,23 +42,51 @@ class DataGenerator:
 
             self.characters = characters
             return characters
+    def get_list_words(self):
+        with open(WORDS_SET) as ws:
+            words = ws.readlines()
+
+        words = [x.strip() for x in words]
+        return words
 
     def create_text_image(self, text, font_ttf, idx_category, font_size):
         try:
-            image = Image.new("RGB", (IMG_WIDTH, IMG_HEIGHT), (255, 255, 255))
-            draw = ImageDraw.Draw(image)
+            # Tạo text từ vi_VI.dic + random 6 chữ số 
+            number_rand = random.randint(100000,999999)
+            text = text + ' ' + str(number_rand)
+            # Lấy width và height của text mới 
+            image_fake = Image.new("RGB", (IMG_WIDTH, IMG_HEIGHT), (255, 255, 255))
+            draw = ImageDraw.Draw(image_fake)
             font = ImageFont.truetype(font_ttf, font_size)
             w, h = draw.textsize(text, font=font)
-            draw.text(((IMG_WIDTH - w) / 2, (IMG_HEIGHT - h) / 2), text, (0, 0, 0), font=font)
+
+            # Tạo ảnh có kích thừa phù hợp với text
+            image = Image.new("RGB", (w+4, h+4), (255, 255, 255))
+            draw = ImageDraw.Draw(image)
+
+            
+            
+            color_rand_ind = random.randint(0,3)
+            color_rand=self.color[color_rand_ind]
+
+            # draw.text(((IMG_WIDTH - w) / 2, (IMG_HEIGHT - h) / 2), text, (0, 0, 0), font=font)
+            draw.text((1, 1), text, fill=color_rand, font=font)
 
             if SAVE_TEXT_IMAGE_TO_DISK:
-                image.save(self.data_folder + str(idx_category) + '/' + str(self.i) + '.jpg')
+                image.save(self.data_folder + str(self.i) + '.jpg')
+
+                with open(self.data_folder+str(self.i)+'.txt', 'w') as f:
+                    f.write(text.replace(' ', ''))
+
+                self.i = self.i + 1
+                return
 
             self.log.append({'font': font_ttf, 'image': str(self.i) + '.jpg'})
-            self.i = self.i + 1
+            # self.i = self.i + 1
             return image
         except Exception as e:
             self.errors.append({'font': font_ttf, 'errors': str(e)})
+            # print(str(e))
             return None
 
     def generate_data_set(self, text, idx_category):
@@ -66,32 +95,39 @@ class DataGenerator:
             for font in fonts:
                 if '#' not in font:
                     for font_size in range(FONT_SIZE_MIN, FONT_SIZE_MAX + 1):
-                        image = self.create_text_image(text, font.replace('\n', ''), idx_category, font_size)
-                        if image != None:
-                            self.dataset_size = self.dataset_size + 1
-                            images.append(image)
-        self.i = 0
+                        # Lấy ngẫu nhiên 10% font 
+                        x = random.randint(1,100)
+                        if x <= 10:
+                            image = self.create_text_image(text, font.replace('\n', ''), idx_category, font_size)
+                        # if image != None:
+                        #     self.dataset_size = self.dataset_size + 1
+                        #     images.append(image)
+                        
+
+        # self.i = 0
         return images
 
     def generate_dataset(self):
-        characters = self.get_list_characters()
+        characters = self.get_list_words()
+        if SAVE_TEXT_IMAGE_TO_DISK and not os.path.exists(self.data_folder):
+                os.makedirs(self.data_folder)
         for idx, ch in enumerate(characters):
-            if SAVE_TEXT_IMAGE_TO_DISK and not os.path.exists(self.data_folder + str(idx)):
-                os.makedirs(self.data_folder + str(idx))
-
             c_images = self.generate_data_set(ch, idx)
-            print('.', end='')
-            for ic in c_images:
-                image = np.asarray(ic)
-                image = self.rgb2gray(image)
-                image = image.reshape(1, IMG_WIDTH * IMG_HEIGHT)
-                with open(DATASET_FILE, 'ab') as df:
-                    image = np.concatenate((image, np.array([[int(idx)]])), axis=1)
-                    np.savetxt(df, image, delimiter=",", fmt="%d")
+            # if self.i > 10:
+            #     return
+            # print('.', end='')
+            # for ic in c_images:
+            #     image = np.asarray(ic)
+            #     # image = self.rgb2gray(image)
+            #     image = image.reshape(1, IMG_WIDTH * IMG_HEIGHT)
+            #     with open(DATASET_FILE, 'ab') as df:
+            #         image = np.concatenate((image, np.array([[int(idx)]])), axis=1)
+            #         np.savetxt(df, image, delimiter=",", fmt="%d")
 
 
 if __name__ == "__main__":
     print('Generating dataset...')
     generator = DataGenerator()
     generator.generate_dataset()
-    print('Text Image Dataset is generated:', DATASET_FILE_PATH)
+    # print('Text Image Dataset is generated:', DATASET_FILE_PATH)
+    print('Done!')

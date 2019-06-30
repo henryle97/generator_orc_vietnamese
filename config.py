@@ -1,17 +1,19 @@
-SAVE_TEXT_IMAGE_TO_DISK = False
+SAVE_TEXT_IMAGE_TO_DISK = True
 FONT_SIZE = 20
 FONT_SIZE_MIN = 20
 FONT_SIZE_MAX = 20
-IMG_WIDTH = 28
-IMG_HEIGHT = 28
+IMG_WIDTH = 300
+IMG_HEIGHT = 30
 
-DATASET_DIR = 'data/train/characters/'
+# DATASET_DIR = 'data/train/characters/'
+DATASET_DIR = 'data/train/img_label/'
 DATASET_FILE_NAME = 'dataset.csv'
 DATASET_FILE = DATASET_DIR + DATASET_FILE_NAME
 FONT_LIST = 'fonts/fonts.list'
 
 CHARACTERS_SET = 'data/vi.characters.csv'
-
-SUM_SAMPLES = 105640
-# SUM_SAMPLES = 1000
-NO_LABEL = 190
+WORDS_SET = 'data/vi_VN.dic'
+#SUM_SAMPLES = 105640
+SUM_SAMPLES = 10
+#NO_LABEL = 190
+NO_LABEL = 5

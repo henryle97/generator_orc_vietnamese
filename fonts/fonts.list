@@ -1,556 +1,686 @@
-fonts/google/Alegreya_Sans/AlegreyaSans-Black.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-BlackItalic.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-Bold.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-BoldItalic.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-ExtraBold.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-ExtraBoldItalic.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-Italic.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-Light.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-LightItalic.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-Medium.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-MediumItalic.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-Regular.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-Thin.ttf
-fonts/google/Alegreya_Sans/AlegreyaSans-ThinItalic.ttf
-fonts/google/Alfa_Slab_One/AlfaSlabOne-Regular.ttf
-fonts/google/Anton/Anton-Regular.ttf
-fonts/google/Archivo/Archivo-Bold.ttf
-fonts/google/Archivo/Archivo-BoldItalic.ttf
-fonts/google/Archivo/Archivo-Italic.ttf
-fonts/google/Archivo/Archivo-Medium.ttf
-fonts/google/Archivo/Archivo-MediumItalic.ttf
-fonts/google/Archivo/Archivo-Regular.ttf
-fonts/google/Archivo/Archivo-SemiBold.ttf
-fonts/google/Archivo/Archivo-SemiBoldItalic.ttf
-fonts/google/Arima_Madurai/ArimaMadurai-Black.ttf
-fonts/google/Arima_Madurai/ArimaMadurai-Bold.ttf
-fonts/google/Arima_Madurai/ArimaMadurai-ExtraBold.ttf
-fonts/google/Arima_Madurai/ArimaMadurai-ExtraLight.ttf
-fonts/google/Arima_Madurai/ArimaMadurai-Light.ttf
-fonts/google/Arima_Madurai/ArimaMadurai-Medium.ttf
-fonts/google/Arima_Madurai/ArimaMadurai-Regular.ttf
-fonts/google/Arima_Madurai/ArimaMadurai-Thin.ttf
-fonts/google/Arimo/Arimo-Bold.ttf
-fonts/google/Arimo/Arimo-BoldItalic.ttf
-fonts/google/Arimo/Arimo-Italic.ttf
-fonts/google/Arimo/Arimo-Regular.ttf
-fonts/google/Arsenal/Arsenal-Bold.ttf
-fonts/google/Arsenal/Arsenal-BoldItalic.ttf
-fonts/google/Arsenal/Arsenal-Italic.ttf
-fonts/google/Arsenal/Arsenal-Regular.ttf
-fonts/google/Asap/Asap-Bold.ttf
-fonts/google/Asap/Asap-BoldItalic.ttf
-fonts/google/Asap/Asap-Italic.ttf
-fonts/google/Asap/Asap-Medium.ttf
-fonts/google/Asap/Asap-MediumItalic.ttf
-fonts/google/Asap/Asap-Regular.ttf
-fonts/google/Asap/Asap-SemiBold.ttf
-fonts/google/Asap/Asap-SemiBoldItalic.ttf
-fonts/google/Asap_Condensed/AsapCondensed-Bold.ttf
-fonts/google/Asap_Condensed/AsapCondensed-BoldItalic.ttf
-fonts/google/Asap_Condensed/AsapCondensed-Italic.ttf
-fonts/google/Asap_Condensed/AsapCondensed-Medium.ttf
-fonts/google/Asap_Condensed/AsapCondensed-MediumItalic.ttf
-fonts/google/Asap_Condensed/AsapCondensed-Regular.ttf
-fonts/google/Asap_Condensed/AsapCondensed-SemiBold.ttf
-fonts/google/Asap_Condensed/AsapCondensed-SemiBoldItalic.ttf
-fonts/google/Athiti/Athiti-Bold.ttf
-fonts/google/Athiti/Athiti-ExtraLight.ttf
-fonts/google/Athiti/Athiti-Light.ttf
-fonts/google/Athiti/Athiti-Medium.ttf
-fonts/google/Athiti/Athiti-Regular.ttf
-fonts/google/Athiti/Athiti-SemiBold.ttf
-fonts/google/Baloo_Bhai/BalooBhai-Regular.ttf
-fonts/google/Baloo_Chettan/BalooChettan-Regular.ttf
-fonts/google/Baloo_Da/BalooDa-Regular.ttf
-fonts/google/Baloo_Paaji/BalooPaaji-Regular.ttf
-fonts/google/Baloo_Tamma/BalooTamma-Regular.ttf
-fonts/google/Baloo_Tammudu/BalooTammudu-Regular.ttf
-fonts/google/Baloo_Thambi/BalooThambi-Regular.ttf
-fonts/google/Bevan/Bevan-Regular.ttf
-fonts/google/Cabin/Cabin-Bold.ttf
-fonts/google/Cabin/Cabin-BoldItalic.ttf
-fonts/google/Cabin/Cabin-Italic.ttf
-fonts/google/Cabin/Cabin-Medium.ttf
-fonts/google/Cabin/Cabin-MediumItalic.ttf
-fonts/google/Cabin/Cabin-Regular.ttf
-fonts/google/Cabin/Cabin-SemiBold.ttf
-fonts/google/Cabin/Cabin-SemiBoldItalic.ttf
-fonts/google/Cabin_Condensed/CabinCondensed-Bold.ttf
-fonts/google/Cabin_Condensed/CabinCondensed-Medium.ttf
-fonts/google/Cabin_Condensed/CabinCondensed-Regular.ttf
-fonts/google/Cabin_Condensed/CabinCondensed-SemiBold.ttf
-fonts/google/Chonburi/Chonburi-Regular.ttf
-fonts/google/Coiny/Coiny-Regular.ttf
-fonts/google/Comfortaa/Comfortaa-Bold.ttf
-fonts/google/Comfortaa/Comfortaa-Light.ttf
-fonts/google/Comfortaa/Comfortaa-Regular.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-Bold.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-BoldItalic.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-Italic.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-Light.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-LightItalic.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-Medium.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-MediumItalic.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-Regular.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-SemiBold.ttf
-fonts/google/Cormorant_Infant/CormorantInfant-SemiBoldItalic.ttf
-fonts/google/Cormorant_Unicase/CormorantUnicase-Bold.ttf
-fonts/google/Cormorant_Unicase/CormorantUnicase-Light.ttf
-fonts/google/Cormorant_Unicase/CormorantUnicase-Medium.ttf
-fonts/google/Cormorant_Unicase/CormorantUnicase-Regular.ttf
-fonts/google/Cormorant_Unicase/CormorantUnicase-SemiBold.ttf
-fonts/google/Cormorant_Upright/CormorantUpright-Bold.ttf
-fonts/google/Cormorant_Upright/CormorantUpright-Light.ttf
-fonts/google/Cormorant_Upright/CormorantUpright-Medium.ttf
-fonts/google/Cormorant_Upright/CormorantUpright-Regular.ttf
-fonts/google/Cormorant_Upright/CormorantUpright-SemiBold.ttf
-fonts/google/Cousine/Cousine-Bold.ttf
-fonts/google/Cousine/Cousine-BoldItalic.ttf
-fonts/google/Cousine/Cousine-Italic.ttf
-fonts/google/Cousine/Cousine-Regular.ttf
-fonts/google/Cuprum/Cuprum-Bold.ttf
-fonts/google/Cuprum/Cuprum-BoldItalic.ttf
-fonts/google/Cuprum/Cuprum-Italic.ttf
-fonts/google/Cuprum/Cuprum-Regular.ttf
-fonts/google/David_Libre/DavidLibre-Bold.ttf
-fonts/google/David_Libre/DavidLibre-Medium.ttf
-fonts/google/David_Libre/DavidLibre-Regular.ttf
-fonts/google/EB_Garamond/EBGaramond-Regular.ttf
-fonts/google/Encode_Sans/EncodeSans-Black.ttf
-fonts/google/Encode_Sans/EncodeSans-Bold.ttf
-fonts/google/Encode_Sans/EncodeSans-ExtraBold.ttf
-fonts/google/Encode_Sans/EncodeSans-ExtraLight.ttf
-fonts/google/Encode_Sans/EncodeSans-Light.ttf
-fonts/google/Encode_Sans/EncodeSans-Medium.ttf
-fonts/google/Encode_Sans/EncodeSans-Regular.ttf
-fonts/google/Encode_Sans/EncodeSans-SemiBold.ttf
-fonts/google/Encode_Sans/EncodeSans-Thin.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Black.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Bold.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-ExtraBold.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-ExtraLight.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Light.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Medium.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Regular.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-SemiBold.ttf
-fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Thin.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Black.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Bold.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-ExtraBold.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-ExtraLight.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Medium.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-SemiBold.ttf
-fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Thin.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Black.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Bold.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-ExtraBold.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-ExtraLight.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Light.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Medium.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Regular.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-SemiBold.ttf
-fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Thin.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Black.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Bold.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-ExtraBold.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-ExtraLight.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Light.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Medium.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Regular.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-SemiBold.ttf
-fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Thin.ttf
-fonts/google/Exo/Exo-Black.ttf
-fonts/google/Exo/Exo-BlackItalic.ttf
-fonts/google/Exo/Exo-Bold.ttf
-fonts/google/Exo/Exo-BoldItalic.ttf
-fonts/google/Exo/Exo-ExtraBold.ttf
-fonts/google/Exo/Exo-ExtraBoldItalic.ttf
-fonts/google/Exo/Exo-ExtraLight.ttf
-fonts/google/Exo/Exo-ExtraLightItalic.ttf
-fonts/google/Exo/Exo-Italic.ttf
-fonts/google/Exo/Exo-Light.ttf
-fonts/google/Exo/Exo-LightItalic.ttf
-fonts/google/Exo/Exo-Medium.ttf
-fonts/google/Exo/Exo-MediumItalic.ttf
-fonts/google/Exo/Exo-Regular.ttf
-fonts/google/Exo/Exo-SemiBold.ttf
-fonts/google/Exo/Exo-SemiBoldItalic.ttf
-fonts/google/Exo/Exo-Thin.ttf
-fonts/google/Exo/Exo-ThinItalic.ttf
-fonts/google/Farsan/Farsan-Regular.ttf
-fonts/google/Faustina/Faustina-Bold.ttf
-fonts/google/Faustina/Faustina-BoldItalic.ttf
-fonts/google/Faustina/Faustina-Italic.ttf
-fonts/google/Faustina/Faustina-Medium.ttf
-fonts/google/Faustina/Faustina-MediumItalic.ttf
-fonts/google/Faustina/Faustina-Regular.ttf
-fonts/google/Faustina/Faustina-SemiBold.ttf
-fonts/google/Faustina/Faustina-SemiBoldItalic.ttf
-fonts/google/Fira_Sans/FiraSans-Black.ttf
-fonts/google/Fira_Sans/FiraSans-BlackItalic.ttf
-fonts/google/Fira_Sans/FiraSans-Bold.ttf
-fonts/google/Fira_Sans/FiraSans-BoldItalic.ttf
-fonts/google/Fira_Sans/FiraSans-ExtraBold.ttf
-fonts/google/Fira_Sans/FiraSans-ExtraBoldItalic.ttf
-fonts/google/Fira_Sans/FiraSans-ExtraLight.ttf
-fonts/google/Fira_Sans/FiraSans-ExtraLightItalic.ttf
-fonts/google/Fira_Sans/FiraSans-Italic.ttf
-fonts/google/Fira_Sans/FiraSans-Light.ttf
-fonts/google/Fira_Sans/FiraSans-LightItalic.ttf
-fonts/google/Fira_Sans/FiraSans-Medium.ttf
-fonts/google/Fira_Sans/FiraSans-MediumItalic.ttf
-fonts/google/Fira_Sans/FiraSans-Regular.ttf
-fonts/google/Fira_Sans/FiraSans-SemiBold.ttf
-fonts/google/Fira_Sans/FiraSans-SemiBoldItalic.ttf
-fonts/google/Fira_Sans/FiraSans-Thin.ttf
-fonts/google/Fira_Sans/FiraSans-ThinItalic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Black.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-BlackItalic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Bold.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-BoldItalic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ExtraBold.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ExtraBoldItalic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ExtraLight.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ExtraLightItalic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Italic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Light.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-LightItalic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Medium.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-MediumItalic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Regular.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-SemiBold.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-SemiBoldItalic.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Thin.ttf
-fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ThinItalic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Black.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-BlackItalic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Bold.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-BoldItalic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ExtraBold.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ExtraBoldItalic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ExtraLight.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ExtraLightItalic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Italic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Light.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-LightItalic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Medium.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-MediumItalic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Regular.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-SemiBold.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-SemiBoldItalic.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Thin.ttf
-fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ThinItalic.ttf
-fonts/google/Francois_One/FrancoisOne-Regular.ttf
-fonts/google/Inconsolata/Inconsolata-Bold.ttf
-fonts/google/Inconsolata/Inconsolata-Regular.ttf
-fonts/google/Itim/Itim-Regular.ttf
-fonts/google/Josefin_Sans/JosefinSans-Bold.ttf
-fonts/google/Josefin_Sans/JosefinSans-BoldItalic.ttf
-fonts/google/Josefin_Sans/JosefinSans-Italic.ttf
-fonts/google/Josefin_Sans/JosefinSans-Light.ttf
-fonts/google/Josefin_Sans/JosefinSans-LightItalic.ttf
-fonts/google/Josefin_Sans/JosefinSans-Regular.ttf
-fonts/google/Josefin_Sans/JosefinSans-SemiBold.ttf
-fonts/google/Josefin_Sans/JosefinSans-SemiBoldItalic.ttf
-fonts/google/Josefin_Sans/JosefinSans-Thin.ttf
-fonts/google/Josefin_Sans/JosefinSans-ThinItalic.ttf
-fonts/google/Judson/Judson-Bold.ttf
-fonts/google/Judson/Judson-Italic.ttf
-fonts/google/Judson/Judson-Regular.ttf
-fonts/google/Jura/Jura-Bold.ttf
-fonts/google/Jura/Jura-Light.ttf
-fonts/google/Jura/Jura-Medium.ttf
-fonts/google/Jura/Jura-Regular.ttf
-fonts/google/Jura/Jura-SemiBold.ttf
-fonts/google/Kanit/Kanit-Black.ttf
-fonts/google/Kanit/Kanit-BlackItalic.ttf
-fonts/google/Kanit/Kanit-Bold.ttf
-fonts/google/Kanit/Kanit-BoldItalic.ttf
-fonts/google/Kanit/Kanit-ExtraBold.ttf
-fonts/google/Kanit/Kanit-ExtraBoldItalic.ttf
-fonts/google/Kanit/Kanit-ExtraLight.ttf
-fonts/google/Kanit/Kanit-ExtraLightItalic.ttf
-fonts/google/Kanit/Kanit-Italic.ttf
-fonts/google/Kanit/Kanit-Light.ttf
-fonts/google/Kanit/Kanit-LightItalic.ttf
-fonts/google/Kanit/Kanit-Medium.ttf
-fonts/google/Kanit/Kanit-MediumItalic.ttf
-fonts/google/Kanit/Kanit-Regular.ttf
-fonts/google/Kanit/Kanit-SemiBold.ttf
-fonts/google/Kanit/Kanit-SemiBoldItalic.ttf
-fonts/google/Kanit/Kanit-Thin.ttf
-fonts/google/Kanit/Kanit-ThinItalic.ttf
-fonts/google/Lalezar/Lalezar-Regular.ttf
-fonts/google/Lobster/Lobster-Regular.ttf
-fonts/google/Lora/Lora-Bold.ttf
-fonts/google/Lora/Lora-BoldItalic.ttf
-fonts/google/Lora/Lora-Italic.ttf
-fonts/google/Lora/Lora-Regular.ttf
-fonts/google/Manuale/Manuale-Bold.ttf
-fonts/google/Manuale/Manuale-BoldItalic.ttf
-fonts/google/Manuale/Manuale-Italic.ttf
-fonts/google/Manuale/Manuale-Medium.ttf
-fonts/google/Manuale/Manuale-MediumItalic.ttf
-fonts/google/Manuale/Manuale-Regular.ttf
-fonts/google/Manuale/Manuale-SemiBold.ttf
-fonts/google/Manuale/Manuale-SemiBoldItalic.ttf
-fonts/google/Maven_Pro/MavenPro-Black.ttf
-fonts/google/Maven_Pro/MavenPro-Bold.ttf
-fonts/google/Maven_Pro/MavenPro-Medium.ttf
-fonts/google/Maven_Pro/MavenPro-Regular.ttf
-fonts/google/Mitr/Mitr-Bold.ttf
-fonts/google/Mitr/Mitr-ExtraLight.ttf
-fonts/google/Mitr/Mitr-Light.ttf
-fonts/google/Mitr/Mitr-Medium.ttf
-fonts/google/Mitr/Mitr-Regular.ttf
-fonts/google/Mitr/Mitr-SemiBold.ttf
-fonts/google/Montserrat/Montserrat-Black.ttf
-fonts/google/Montserrat/Montserrat-BlackItalic.ttf
-fonts/google/Montserrat/Montserrat-Bold.ttf
-fonts/google/Montserrat/Montserrat-BoldItalic.ttf
-fonts/google/Montserrat/Montserrat-ExtraBold.ttf
-fonts/google/Montserrat/Montserrat-ExtraBoldItalic.ttf
-fonts/google/Montserrat/Montserrat-ExtraLight.ttf
-fonts/google/Montserrat/Montserrat-ExtraLightItalic.ttf
-fonts/google/Montserrat/Montserrat-Italic.ttf
-fonts/google/Montserrat/Montserrat-Light.ttf
-fonts/google/Montserrat/Montserrat-LightItalic.ttf
-fonts/google/Montserrat/Montserrat-Medium.ttf
-fonts/google/Montserrat/Montserrat-MediumItalic.ttf
-fonts/google/Montserrat/Montserrat-Regular.ttf
-fonts/google/Montserrat/Montserrat-SemiBold.ttf
-fonts/google/Montserrat/Montserrat-SemiBoldItalic.ttf
-fonts/google/Montserrat/Montserrat-Thin.ttf
-fonts/google/Montserrat/Montserrat-ThinItalic.ttf
-fonts/google/Noticia_Text/NoticiaText-Bold.ttf
-fonts/google/Noticia_Text/NoticiaText-BoldItalic.ttf
-fonts/google/Noticia_Text/NoticiaText-Italic.ttf
-fonts/google/Noticia_Text/NoticiaText-Regular.ttf
-fonts/google/Noto_Sans/NotoSans-Bold.ttf
-fonts/google/Noto_Sans/NotoSans-BoldItalic.ttf
-fonts/google/Noto_Sans/NotoSans-Italic.ttf
-fonts/google/Noto_Sans/NotoSans-Regular.ttf
-fonts/google/Open_Sans/OpenSans-Bold.ttf
-fonts/google/Open_Sans/OpenSans-BoldItalic.ttf
-fonts/google/Open_Sans/OpenSans-ExtraBold.ttf
-fonts/google/Open_Sans/OpenSans-ExtraBoldItalic.ttf
-fonts/google/Open_Sans/OpenSans-Italic.ttf
-fonts/google/Open_Sans/OpenSans-Light.ttf
-fonts/google/Open_Sans/OpenSans-LightItalic.ttf
-fonts/google/Open_Sans/OpenSans-Regular.ttf
-fonts/google/Open_Sans/OpenSans-SemiBold.ttf
-fonts/google/Open_Sans/OpenSans-SemiBoldItalic.ttf
-fonts/google/Open_Sans_Condensed/OpenSansCondensed-Bold.ttf
-fonts/google/Open_Sans_Condensed/OpenSansCondensed-Light.ttf
-fonts/google/Open_Sans_Condensed/OpenSansCondensed-LightItalic.ttf
-fonts/google/Oswald/Oswald-Bold.ttf
-fonts/google/Oswald/Oswald-ExtraLight.ttf
-fonts/google/Oswald/Oswald-Light.ttf
-fonts/google/Oswald/Oswald-Medium.ttf
-fonts/google/Oswald/Oswald-Regular.ttf
-fonts/google/Oswald/Oswald-SemiBold.ttf
-fonts/google/Pacifico/Pacifico-Regular.ttf
-fonts/google/Pangolin/Pangolin-Regular.ttf
-fonts/google/Patrick_Hand/PatrickHand-Regular.ttf
-fonts/google/Patrick_Hand_SC/PatrickHandSC-Regular.ttf
-fonts/google/Paytone_One/PaytoneOne-Regular.ttf
-fonts/google/Philosopher/Philosopher-Bold.ttf
-fonts/google/Philosopher/Philosopher-BoldItalic.ttf
-fonts/google/Philosopher/Philosopher-Italic.ttf
-fonts/google/Philosopher/Philosopher-Regular.ttf
-fonts/google/Prata/Prata-Regular.ttf
-fonts/google/Pridi/Pridi-Bold.ttf
-fonts/google/Pridi/Pridi-ExtraLight.ttf
-fonts/google/Pridi/Pridi-Light.ttf
-fonts/google/Pridi/Pridi-Medium.ttf
-fonts/google/Pridi/Pridi-Regular.ttf
-fonts/google/Pridi/Pridi-SemiBold.ttf
-fonts/google/Prompt/Prompt-Black.ttf
-fonts/google/Prompt/Prompt-BlackItalic.ttf
-fonts/google/Prompt/Prompt-Bold.ttf
-fonts/google/Prompt/Prompt-BoldItalic.ttf
-fonts/google/Prompt/Prompt-ExtraBold.ttf
-fonts/google/Prompt/Prompt-ExtraBoldItalic.ttf
-fonts/google/Prompt/Prompt-ExtraLight.ttf
-fonts/google/Prompt/Prompt-ExtraLightItalic.ttf
-fonts/google/Prompt/Prompt-Italic.ttf
-fonts/google/Prompt/Prompt-Light.ttf
-fonts/google/Prompt/Prompt-LightItalic.ttf
-fonts/google/Prompt/Prompt-Medium.ttf
-fonts/google/Prompt/Prompt-MediumItalic.ttf
-fonts/google/Prompt/Prompt-Regular.ttf
-fonts/google/Prompt/Prompt-SemiBold.ttf
-fonts/google/Prompt/Prompt-SemiBoldItalic.ttf
-fonts/google/Prompt/Prompt-Thin.ttf
-fonts/google/Prompt/Prompt-ThinItalic.ttf
-fonts/google/Quicksand/Quicksand-Bold.ttf
-fonts/google/Quicksand/Quicksand-Light.ttf
-fonts/google/Quicksand/Quicksand-Medium.ttf
-fonts/google/Quicksand/Quicksand-Regular.ttf
-fonts/google/Roboto/Roboto-Black.ttf
-fonts/google/Roboto/Roboto-BlackItalic.ttf
-fonts/google/Roboto/Roboto-Bold.ttf
-fonts/google/Roboto/Roboto-BoldItalic.ttf
-fonts/google/Roboto/Roboto-Italic.ttf
-fonts/google/Roboto/Roboto-Light.ttf
-fonts/google/Roboto/Roboto-LightItalic.ttf
-fonts/google/Roboto/Roboto-Medium.ttf
-fonts/google/Roboto/Roboto-MediumItalic.ttf
-fonts/google/Roboto/Roboto-Regular.ttf
-fonts/google/Roboto/Roboto-Thin.ttf
-fonts/google/Roboto/Roboto-ThinItalic.ttf
-fonts/google/Roboto_Condensed/RobotoCondensed-Bold.ttf
-fonts/google/Roboto_Condensed/RobotoCondensed-BoldItalic.ttf
-fonts/google/Roboto_Condensed/RobotoCondensed-Italic.ttf
-fonts/google/Roboto_Condensed/RobotoCondensed-Light.ttf
-fonts/google/Roboto_Condensed/RobotoCondensed-LightItalic.ttf
-fonts/google/Roboto_Condensed/RobotoCondensed-Regular.ttf
-fonts/google/Roboto_Slab/RobotoSlab-Bold.ttf
-fonts/google/Roboto_Slab/RobotoSlab-Light.ttf
-fonts/google/Roboto_Slab/RobotoSlab-Regular.ttf
-fonts/google/Roboto_Slab/RobotoSlab-Thin.ttf
-fonts/google/Rokkitt/Rokkitt-Black.ttf
-fonts/google/Rokkitt/Rokkitt-Bold.ttf
-fonts/google/Rokkitt/Rokkitt-ExtraBold.ttf
-fonts/google/Rokkitt/Rokkitt-ExtraLight.ttf
-fonts/google/Rokkitt/Rokkitt-Light.ttf
-fonts/google/Rokkitt/Rokkitt-Medium.ttf
-fonts/google/Rokkitt/Rokkitt-Regular.ttf
-fonts/google/Rokkitt/Rokkitt-SemiBold.ttf
-fonts/google/Rokkitt/Rokkitt-Thin.ttf
-fonts/google/Saira/Saira-Black.ttf
-fonts/google/Saira/Saira-Bold.ttf
-fonts/google/Saira/Saira-ExtraBold.ttf
-fonts/google/Saira/Saira-ExtraLight.ttf
-fonts/google/Saira/Saira-Light.ttf
-fonts/google/Saira/Saira-Medium.ttf
-fonts/google/Saira/Saira-Regular.ttf
-fonts/google/Saira/Saira-SemiBold.ttf
-fonts/google/Saira/Saira-Thin.ttf
-fonts/google/Saira_Condensed/SairaCondensed-Black.ttf
-fonts/google/Saira_Condensed/SairaCondensed-Bold.ttf
-fonts/google/Saira_Condensed/SairaCondensed-ExtraBold.ttf
-fonts/google/Saira_Condensed/SairaCondensed-ExtraLight.ttf
-fonts/google/Saira_Condensed/SairaCondensed-Light.ttf
-fonts/google/Saira_Condensed/SairaCondensed-Medium.ttf
-fonts/google/Saira_Condensed/SairaCondensed-Regular.ttf
-fonts/google/Saira_Condensed/SairaCondensed-SemiBold.ttf
-fonts/google/Saira_Condensed/SairaCondensed-Thin.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Black.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Bold.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-ExtraBold.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-ExtraLight.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Light.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Medium.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Regular.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-SemiBold.ttf
-fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Thin.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-Black.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-BlackItalic.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-Bold.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-BoldItalic.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-ExtraLight.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-ExtraLightItalic.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-Italic.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-Light.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-LightItalic.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-Regular.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-SemiBold.ttf
-fonts/google/Source_Sans_Pro/SourceSansPro-SemiBoldItalic.ttf
-fonts/google/Space_Mono/SpaceMono-Bold.ttf
-fonts/google/Space_Mono/SpaceMono-BoldItalic.ttf
-fonts/google/Space_Mono/SpaceMono-Italic.ttf
-fonts/google/Space_Mono/SpaceMono-Regular.ttf
-fonts/google/Spectral/Spectral-Bold.ttf
-fonts/google/Spectral/Spectral-BoldItalic.ttf
-fonts/google/Spectral/Spectral-ExtraBold.ttf
-fonts/google/Spectral/Spectral-ExtraBoldItalic.ttf
-fonts/google/Spectral/Spectral-ExtraLight.ttf
-fonts/google/Spectral/Spectral-ExtraLightItalic.ttf
-fonts/google/Spectral/Spectral-Italic.ttf
-fonts/google/Spectral/Spectral-Light.ttf
-fonts/google/Spectral/Spectral-LightItalic.ttf
-fonts/google/Spectral/Spectral-Medium.ttf
-fonts/google/Spectral/Spectral-MediumItalic.ttf
-fonts/google/Spectral/Spectral-Regular.ttf
-fonts/google/Spectral/Spectral-SemiBold.ttf
-fonts/google/Spectral/Spectral-SemiBoldItalic.ttf
-fonts/google/Tinos/Tinos-Bold.ttf
-fonts/google/Tinos/Tinos-BoldItalic.ttf
-fonts/google/Tinos/Tinos-Italic.ttf
-fonts/google/Tinos/Tinos-Regular.ttf
-fonts/google/Varela_Round/VarelaRound-Regular.ttf
-fonts/google/Vollkorn/Vollkorn-Black.ttf
-fonts/google/Vollkorn/Vollkorn-BlackItalic.ttf
-fonts/google/Vollkorn/Vollkorn-Bold.ttf
-fonts/google/Vollkorn/Vollkorn-BoldItalic.ttf
-fonts/google/Vollkorn/Vollkorn-Italic.ttf
-fonts/google/Vollkorn/Vollkorn-Regular.ttf
-fonts/google/Vollkorn/Vollkorn-SemiBold.ttf
-fonts/google/Vollkorn/Vollkorn-SemiBoldItalic.ttf
-fonts/google/Yanone_Kaffeesatz/YanoneKaffeesatz-Bold.ttf
-fonts/google/Yanone_Kaffeesatz/YanoneKaffeesatz-ExtraLight.ttf
-fonts/google/Yanone_Kaffeesatz/YanoneKaffeesatz-Light.ttf
-fonts/google/Yanone_Kaffeesatz/YanoneKaffeesatz-Regular.ttf
-fonts/win/Candara.ttf
-fonts/win/MesquiteStd.otf
-fonts/win/MinionPro-Bold.otf
-fonts/win/MinionPro-BoldCn.otf
-fonts/win/MinionPro-BoldCnIt.otf
-fonts/win/MinionPro-BoldIt.otf
-fonts/win/MinionPro-It.otf
-fonts/win/MinionPro-Medium.otf
-fonts/win/MinionPro-MediumIt.otf
-fonts/win/MinionPro-Regular.otf
-fonts/win/MinionPro-Semibold.otf
-fonts/win/MyriadPro-Bold.otf
-fonts/win/MyriadPro-BoldCond.otf
-fonts/win/MyriadPro-BoldCondIt.otf
-fonts/win/MyriadPro-BoldIt.otf
-fonts/win/MyriadPro-Cond.otf
-fonts/win/MyriadPro-CondIt.otf
-fonts/win/MyriadPro-It.otf
-fonts/win/Sitka.ttc
-fonts/win/SitkaB.ttc
-fonts/win/SitkaI.ttc
-fonts/win/arial.ttf
-fonts/win/arialbd.ttf
-fonts/win/arialbi.ttf
-fonts/win/ariali.ttf
-fonts/win/calibri.ttf
-fonts/win/calibrib.ttf
-fonts/win/calibrii.ttf
-fonts/win/calibril.ttf
-fonts/win/calibrili.ttf
-fonts/win/calibriz.ttf
-fonts/win/consola.ttf
-fonts/win/consolab.ttf
-fonts/win/consolai.ttf
-fonts/win/consolaz.ttf
-fonts/win/constan.ttf
-fonts/win/constanb.ttf
-fonts/win/constani.ttf
-fonts/win/constanz.ttf
-fonts/win/corbel.ttf
-fonts/win/corbeli.ttf
-fonts/win/corbelz.ttf
-fonts/win/micross.ttf
-fonts/win/segoeui.ttf
-fonts/win/segoeuib.ttf
-fonts/win/segoeuii.ttf
-fonts/win/segoeuil.ttf
-fonts/win/segoeuisl.ttf
-fonts/win/segoeuiz.ttf
-fonts/win/seguibl.ttf
-fonts/win/seguibli.ttf
-fonts/win/seguili.ttf
-fonts/win/seguisb.ttf
-fonts/win/seguisbi.ttf
-fonts/win/seguisli.ttf
-fonts/win/tahoma.ttf
-fonts/win/tahomabd.ttf
-fonts/win/times.ttf
-fonts/win/verdana.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/fonts.list
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/cmnd/AVANTM.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win.zip
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/list.sh
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/vi.zip
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/arial.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/segoeuisl.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/ariali.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/times.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/tahomabd.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/lucon.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/seguisli.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-Bold.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-BoldIt.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MyriadPro-It.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-Regular.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/constanz.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/constanb.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/SitkaB.ttc
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/trebucit.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/constan.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/segoeuii.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MesquiteStd.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/segoeuiz.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/consolaz.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/ariblk.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/RosewoodStd-Regular.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/seguibl.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/SitkaI.ttc
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MyriadPro-BoldCondIt.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MyriadPro-Bold.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/segoeuib.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/seguili.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/seguibli.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/calibrib.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-MediumIt.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MyriadPro-CondIt.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/corbeli.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/Sitka.ttc
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MyriadPro-BoldIt.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/segoeuil.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/calibrili.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MyriadPro-Cond.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/consolai.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/arialbi.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/constani.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-It.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/Candara.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/calibriz.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/verdana.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/arialbd.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/corbelz.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/corbel.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/calibril.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/tahoma.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/calibrii.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/seguisbi.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/calibri.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-BoldCnIt.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-BoldCn.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-Semibold.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MinionPro-Medium.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/micross.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/segoescb.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/seguisb.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/MyriadPro-BoldCond.otf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/comicz.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/segoeui.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/consolab.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/win/consola.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/Manuale-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/Manuale-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/Manuale-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/Manuale-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/Manuale-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/Manuale-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/Manuale-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Manuale/Manuale-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Thambi/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Thambi/BalooThambi-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Mitr/Mitr-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Mitr/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Mitr/Mitr-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Mitr/Mitr-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Mitr/Mitr-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Mitr/Mitr-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Mitr/Mitr-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pacifico/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pacifico/Pacifico-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alfa_Slab_One/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alfa_Slab_One/AlfaSlabOne-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Patrick_Hand_SC/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Patrick_Hand_SC/PatrickHandSC-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cuprum/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cuprum/Cuprum-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cuprum/Cuprum-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cuprum/Cuprum-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cuprum/Cuprum-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Expanded/EncodeSansExpanded-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans_Condensed/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans_Condensed/OpenSansCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans_Condensed/OpenSansCondensed-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans_Condensed/OpenSansCondensed-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Condensed/EncodeSansCondensed-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/David_Libre/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/David_Libre/DavidLibre-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/David_Libre/DavidLibre-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/David_Libre/DavidLibre-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Tamma/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Tamma/BalooTamma-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Itim/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Itim/Itim-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Exo/Exo-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pridi/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pridi/Pridi-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pridi/Pridi-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pridi/Pridi-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pridi/Pridi-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pridi/Pridi-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pridi/Pridi-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Space_Mono/SpaceMono-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Space_Mono/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Space_Mono/SpaceMono-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Space_Mono/SpaceMono-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Space_Mono/SpaceMono-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/Cabin-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/Cabin-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/Cabin-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/Cabin-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/Cabin-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/Cabin-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/Cabin-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin/Cabin-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/Asap-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/Asap-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/Asap-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/Asap-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/Asap-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/Asap-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/Asap-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap/Asap-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lalezar/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lalezar/Lalezar-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Athiti/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Athiti/Athiti-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Athiti/Athiti-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Athiti/Athiti-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Athiti/Athiti-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Athiti/Athiti-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Athiti/Athiti-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Quicksand/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Quicksand/Quicksand-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Quicksand/Quicksand-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Quicksand/Quicksand-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Quicksand/Quicksand-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Philosopher/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Philosopher/Philosopher-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Philosopher/Philosopher-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Philosopher/Philosopher-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Philosopher/Philosopher-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Farsan/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Farsan/Farsan-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bungee_Hairline/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bungee_Hairline/BungeeHairline-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Judson/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Judson/Judson-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Judson/Judson-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Judson/Judson-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Tammudu/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Tammudu/BalooTammudu-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Open_Sans/OpenSans-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/EB_Garamond/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/EB_Garamond/EBGaramond-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Source_Sans_Pro/SourceSansPro-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lobster/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lobster/Lobster-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prompt/Prompt-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arsenal/Arsenal-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arsenal/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arsenal/Arsenal-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arsenal/Arsenal-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arsenal/Arsenal-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Expanded/EncodeSansSemiExpanded-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans_SC/AlegreyaSansSC-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Paaji/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Paaji/BalooPaaji-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans_Semi_Condensed/EncodeSansSemiCondensed-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Francois_One/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Francois_One/FrancoisOne-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Bhai/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Bhai/BalooBhai-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Sigmar_One/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Sigmar_One/SigmarOne-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Jura/Jura-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Jura/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Jura/Jura-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Jura/Jura-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Jura/Jura-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Jura/Jura-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Varela_Round/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Varela_Round/VarelaRound-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Tinos/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Tinos/Tinos-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Tinos/Tinos-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Tinos/Tinos-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Tinos/Tinos-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Condensed/RobotoCondensed-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Condensed/RobotoCondensed-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Condensed/RobotoCondensed-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Condensed/RobotoCondensed-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Condensed/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Condensed/RobotoCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Condensed/RobotoCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bungee_Outline/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bungee_Outline/BungeeOutline-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Condensed/SairaCondensed-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Upright/CormorantUpright-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Upright/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Upright/CormorantUpright-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Upright/CormorantUpright-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Upright/CormorantUpright-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Upright/CormorantUpright-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/AsapCondensed-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/AsapCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/AsapCondensed-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/AsapCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/AsapCondensed-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/AsapCondensed-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/AsapCondensed-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Asap_Condensed/AsapCondensed-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira/Saira-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prata/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Prata/Prata-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Oswald/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Oswald/Oswald-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Oswald/Oswald-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Oswald/Oswald-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Oswald/Oswald-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Oswald/Oswald-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Oswald/Oswald-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Kanit/Kanit-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noticia_Text/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noticia_Text/NoticiaText-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noticia_Text/NoticiaText-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noticia_Text/NoticiaText-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noticia_Text/NoticiaText-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Rokkitt/Rokkitt-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Montserrat/Montserrat-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_SC/CormorantSC-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_SC/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_SC/CormorantSC-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_SC/CormorantSC-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_SC/CormorantSC-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_SC/CormorantSC-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bungee_Inline/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bungee_Inline/BungeeInline-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin_Condensed/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin_Condensed/CabinCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin_Condensed/CabinCondensed-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin_Condensed/CabinCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cabin_Condensed/CabinCondensed-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Inconsolata/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Inconsolata/Inconsolata-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Inconsolata/Inconsolata-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Yanone_Kaffeesatz/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Yanone_Kaffeesatz/YanoneKaffeesatz-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Yanone_Kaffeesatz/YanoneKaffeesatz-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Yanone_Kaffeesatz/YanoneKaffeesatz-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Yanone_Kaffeesatz/YanoneKaffeesatz-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/Vollkorn-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/Vollkorn-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/Vollkorn-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/Vollkorn-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/Vollkorn-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/Vollkorn-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/Vollkorn-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Vollkorn/Vollkorn-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Slab/RobotoSlab-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Slab/RobotoSlab-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Slab/RobotoSlab-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Slab/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto_Slab/RobotoSlab-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noto_Sans/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noto_Sans/NotoSans-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noto_Sans/NotoSans-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noto_Sans/NotoSans-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Noto_Sans/NotoSans-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Patrick_Hand/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Patrick_Hand/PatrickHand-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Condensed/FiraSansCondensed-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Roboto/Roboto-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pangolin/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Pangolin/Pangolin-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans/FiraSans-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Maven_Pro/MavenPro-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Maven_Pro/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Maven_Pro/MavenPro-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Maven_Pro/MavenPro-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Maven_Pro/MavenPro-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cousine/Cousine-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cousine/Cousine-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cousine/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cousine/Cousine-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cousine/Cousine-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/Archivo-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/Archivo-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/Archivo-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/Archivo-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/Archivo-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/Archivo-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/Archivo-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Archivo/Archivo-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Chettan/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Chettan/BalooChettan-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/ArimaMadurai-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/ArimaMadurai-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/ArimaMadurai-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/ArimaMadurai-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/ArimaMadurai-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/ArimaMadurai-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/ArimaMadurai-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arima_Madurai/ArimaMadurai-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/Faustina-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/Faustina-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/Faustina-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/Faustina-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/Faustina-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/Faustina-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/Faustina-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Faustina/Faustina-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Unicase/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Unicase/CormorantUnicase-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Unicase/CormorantUnicase-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Unicase/CormorantUnicase-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Unicase/CormorantUnicase-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Unicase/CormorantUnicase-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Encode_Sans/EncodeSans-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Chonburi/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Chonburi/Chonburi-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Alegreya_Sans/AlegreyaSans-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Josefin_Sans/JosefinSans-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Anton/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Anton/Anton-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arimo/Arimo-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arimo/LICENSE.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arimo/Arimo-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arimo/Arimo-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Arimo/Arimo-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Comfortaa/Comfortaa-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Comfortaa/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Comfortaa/Comfortaa-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Comfortaa/Comfortaa-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Da/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Baloo_Da/BalooDa-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Amatic_SC/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Amatic_SC/AmaticSC-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Amatic_SC/AmaticSC-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lora/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lora/Lora-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lora/Lora-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lora/Lora-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Lora/Lora-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Cormorant_Infant/CormorantInfant-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bangers/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bangers/Bangers-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bevan/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Bevan/Bevan-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-BlackItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ThinItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Fira_Sans_Extra_Condensed/FiraSansExtraCondensed-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Paytone_One/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Paytone_One/PaytoneOne-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-LightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-MediumItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-Italic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-SemiBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-BoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-ExtraBoldItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-ExtraLightItalic.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Spectral/Spectral-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-ExtraBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Light.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Black.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Thin.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Medium.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-Bold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-SemiBold.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Saira_Semi_Condensed/SairaSemiCondensed-ExtraLight.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Coiny/OFL.txt
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google/Coiny/Coiny-Regular.ttf
+/home/hisiter/IT/Năm 3-Kì 2/VCCorp - Thực tập/Computer vision/Nhận dạng CMND/Text regnization/VietnameseOCR/fonts/google.zip
