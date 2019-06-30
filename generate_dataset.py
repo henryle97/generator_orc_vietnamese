@@ -27,7 +27,7 @@ FONT_LIST = 'fonts/fonts.list'
 CHARACTERS_SET = 'data/vi.characters.csv'
 WORDS_SET = 'data/vi_VN.dic'
 #SUM_SAMPLES = 105640
-SUM_SAMPLES = 
+SUM_SAMPLES = 84000
 #NO_LABEL = 190
 NO_LABEL = 5
 
